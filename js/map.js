@@ -1,0 +1,1 @@
+<script  src="https://www.google.com/maps/place/cy+blind+massage+centre/@3.132906,101.6910095,15z/data=!4m5!3m4!1s0x0:0xeeb7e4ef54b1f58d!8m2!3d3.1328996!4d101.6910159" async="" defer=""></script>
